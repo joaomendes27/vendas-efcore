@@ -155,3 +155,4 @@ C:\Users\MOSTEN\Desktop\Cursos\C#-.NET\vendas-efcore\vendas-efcore\vendas-efcore
 C:\Users\MOSTEN\Desktop\Cursos\C#-.NET\vendas-efcore\vendas-efcore\vendas-efcore\obj\Debug\net8.0\Vendas.pdb
 C:\Users\MOSTEN\Desktop\Cursos\C#-.NET\vendas-efcore\vendas-efcore\vendas-efcore\obj\Debug\net8.0\Vendas.genruntimeconfig.cache
 C:\Users\MOSTEN\Desktop\Cursos\C#-.NET\vendas-efcore\vendas-efcore\vendas-efcore\obj\Debug\net8.0\ref\Vendas.dll
+C:\Users\MOSTEN\Desktop\Cursos\C#-.NET\vendas-efcore\vendas-efcore\vendas-efcore\obj\Debug\net8.0\Vendas.sourcelink.json

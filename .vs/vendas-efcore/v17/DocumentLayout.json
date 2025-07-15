@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\vendas-efcore.csproj|c:\\users\\mosten\\desktop\\cursos\\c#-.net\\vendas-efcore\\vendas-efcore\\vendas-efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\vendas-efcore.csproj|solutionrelative:vendas-efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|c:\\users\\mosten\\desktop\\cursos\\c#-.net\\vendas-efcore\\vendas-efcore\\vendas-efcore\\menus\\menuregistrarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|solutionrelative:vendas-efcore\\menus\\menuregistrarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|c:\\users\\mosten\\desktop\\cursos\\c#-.net\\vendas-efcore\\vendas-efcore\\vendas-efcore\\menus\\menumostrarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|solutionrelative:vendas-efcore\\menus\\menumostrarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|c:\\users\\mosten\\desktop\\cursos\\c#-.net\\vendas-efcore\\vendas-efcore\\vendas-efcore\\menus\\menueditarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|solutionrelative:vendas-efcore\\menus\\menueditarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|c:\\users\\mosten\\desktop\\cursos\\c#-.net\\vendas-efcore\\vendas-efcore\\vendas-efcore\\menus\\menuregistrarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|solutionrelative:vendas-efcore\\menus\\menuregistrarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|c:\\users\\mosten\\desktop\\cursos\\c#-.net\\vendas-efcore\\vendas-efcore\\vendas-efcore\\menus\\menumostrarpedidosdocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|solutionrelative:vendas-efcore\\menus\\menumostrarpedidosdocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|c:\\users\\mosten\\desktop\\cursos\\c#-.net\\vendas-efcore\\vendas-efcore\\vendas-efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|solutionrelative:vendas-efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|c:\\users\\mosten\\desktop\\cursos\\c#-.net\\vendas-efcore\\vendas-efcore\\vendas-efcore\\menus\\menumostrarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|solutionrelative:vendas-efcore\\menus\\menumostrarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|c:\\users\\mosten\\desktop\\cursos\\c#-.net\\vendas-efcore\\vendas-efcore\\vendas-efcore\\menus\\menuregistrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,24 +39,12 @@
       "RelativeMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|solutionrelative:vendas-efcore\\menus\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|c:\\users\\mosten\\desktop\\cursos\\c#-.net\\vendas-efcore\\vendas-efcore\\vendas-efcore\\menus\\menueditarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|solutionrelative:vendas-efcore\\menus\\menueditarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|c:\\users\\mosten\\desktop\\cursos\\c#-.net\\vendas-efcore\\vendas-efcore\\vendas-efcore\\menus\\menuregistrarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|solutionrelative:vendas-efcore\\menus\\menuregistrarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|c:\\users\\mosten\\desktop\\cursos\\c#-.net\\vendas-efcore\\vendas-efcore\\vendas-efcore\\migrations\\20250715152646_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|solutionrelative:vendas-efcore\\migrations\\20250715152646_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|c:\\users\\mosten\\desktop\\cursos\\c#-.net\\vendas-efcore\\vendas-efcore\\vendas-efcore\\data\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|solutionrelative:vendas-efcore\\data\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|c:\\users\\mosten\\desktop\\cursos\\c#-.net\\vendas-efcore\\vendas-efcore\\vendas-efcore\\menus\\menuregistrarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|solutionrelative:vendas-efcore\\menus\\menuregistrarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE2D394C-8A37-4A73-B820-524BA847168E}|vendas-efcore\\Vendas.csproj|c:\\users\\mosten\\desktop\\cursos\\c#-.net\\vendas-efcore\\vendas-efcore\\vendas-efcore\\models\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,46 +90,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MenuMostrarClientes.cs",
-              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuMostrarClientes.cs",
-              "RelativeDocumentMoniker": "vendas-efcore\\Menus\\MenuMostrarClientes.cs",
-              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuMostrarClientes.cs",
-              "RelativeToolTip": "vendas-efcore\\Menus\\MenuMostrarClientes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:13:30.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250715152646_Inicial.cs",
-              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Migrations\\20250715152646_Inicial.cs",
-              "RelativeDocumentMoniker": "vendas-efcore\\Migrations\\20250715152646_Inicial.cs",
-              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Migrations\\20250715152646_Inicial.cs",
-              "RelativeToolTip": "vendas-efcore\\Migrations\\20250715152646_Inicial.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAkwHsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:26:47.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MenuPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuPrincipal.cs",
-              "RelativeDocumentMoniker": "vendas-efcore\\Menus\\MenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuPrincipal.cs",
-              "RelativeToolTip": "vendas-efcore\\Menus\\MenuPrincipal.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:07:13.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MenuMostrarPedidosDoCliente.cs",
               "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuMostrarPedidosDoCliente.cs",
               "RelativeDocumentMoniker": "vendas-efcore\\Menus\\MenuMostrarPedidosDoCliente.cs",
@@ -142,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Program.cs",
               "RelativeDocumentMoniker": "vendas-efcore\\Program.cs",
@@ -155,46 +116,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "MenuRegistrarProduto.cs",
+              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuRegistrarProduto.cs",
+              "RelativeDocumentMoniker": "vendas-efcore\\Menus\\MenuRegistrarProduto.cs",
+              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuRegistrarProduto.cs",
+              "RelativeToolTip": "vendas-efcore\\Menus\\MenuRegistrarProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:11:19.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MenuEditarPedido.cs",
               "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuEditarPedido.cs",
               "RelativeDocumentMoniker": "vendas-efcore\\Menus\\MenuEditarPedido.cs",
               "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuEditarPedido.cs",
               "RelativeToolTip": "vendas-efcore\\Menus\\MenuEditarPedido.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDIAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T15:14:42.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Models\\Pedido.cs",
-              "RelativeDocumentMoniker": "vendas-efcore\\Models\\Pedido.cs",
-              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Models\\Pedido.cs",
-              "RelativeToolTip": "vendas-efcore\\Models\\Pedido.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAmwB8AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:29:54.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MenuRegistrarCliente.cs",
-              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuRegistrarCliente.cs",
-              "RelativeDocumentMoniker": "vendas-efcore\\Menus\\MenuRegistrarCliente.cs",
-              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuRegistrarCliente.cs",
-              "RelativeToolTip": "vendas-efcore\\Menus\\MenuRegistrarCliente.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:08:21.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "MenuRegistrarPedido.cs",
               "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuRegistrarPedido.cs",
               "RelativeDocumentMoniker": "vendas-efcore\\Menus\\MenuRegistrarPedido.cs",
@@ -207,7 +155,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "vendas-efcore\\Menus\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuPrincipal.cs",
+              "RelativeToolTip": "vendas-efcore\\Menus\\MenuPrincipal.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:07:13.607Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "20250715152646_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Migrations\\20250715152646_Inicial.cs",
+              "RelativeDocumentMoniker": "vendas-efcore\\Migrations\\20250715152646_Inicial.cs",
+              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Migrations\\20250715152646_Inicial.cs",
+              "RelativeToolTip": "vendas-efcore\\Migrations\\20250715152646_Inicial.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAkwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:26:47.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuMostrarClientes.cs",
+              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuMostrarClientes.cs",
+              "RelativeDocumentMoniker": "vendas-efcore\\Menus\\MenuMostrarClientes.cs",
+              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuMostrarClientes.cs",
+              "RelativeToolTip": "vendas-efcore\\Menus\\MenuMostrarClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:13:30.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "vendas-efcore\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Models\\Pedido.cs",
+              "RelativeToolTip": "vendas-efcore\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:29:54.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuRegistrarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuRegistrarCliente.cs",
+              "RelativeDocumentMoniker": "vendas-efcore\\Menus\\MenuRegistrarCliente.cs",
+              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuRegistrarCliente.cs",
+              "RelativeToolTip": "vendas-efcore\\Menus\\MenuRegistrarCliente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:08:21.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DAL.cs",
               "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Data\\DAL.cs",
               "RelativeDocumentMoniker": "vendas-efcore\\Data\\DAL.cs",
@@ -215,21 +223,7 @@
               "RelativeToolTip": "vendas-efcore\\Data\\DAL.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T14:53:18.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MenuRegistrarProduto.cs",
-              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuRegistrarProduto.cs",
-              "RelativeDocumentMoniker": "vendas-efcore\\Menus\\MenuRegistrarProduto.cs",
-              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\C#-.NET\\vendas-efcore\\vendas-efcore\\vendas-efcore\\Menus\\MenuRegistrarProduto.cs",
-              "RelativeToolTip": "vendas-efcore\\Menus\\MenuRegistrarProduto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:11:19.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T14:53:18.305Z"
             },
             {
               "$type": "Document",
@@ -241,8 +235,7 @@
               "RelativeToolTip": "vendas-efcore\\Models\\Cliente.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwBQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:29:27.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T13:29:27.262Z"
             },
             {
               "$type": "Document",
@@ -254,8 +247,7 @@
               "RelativeToolTip": "vendas-efcore\\Models\\ItemPedido.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:30:52.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T13:30:52.317Z"
             },
             {
               "$type": "Document",
@@ -267,8 +259,7 @@
               "RelativeToolTip": "vendas-efcore\\Models\\StatusPedido.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:35:09.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T13:35:09.277Z"
             },
             {
               "$type": "Document",
@@ -280,8 +271,7 @@
               "RelativeToolTip": "vendas-efcore\\Models\\Produto.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAYwBoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:29:37.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T13:29:37.432Z"
             },
             {
               "$type": "Document",
@@ -293,8 +283,7 @@
               "RelativeToolTip": "vendas-efcore\\Migrations\\20250715153807_AlterandoCpf.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:38:07.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T15:38:07.346Z"
             },
             {
               "$type": "Document",
@@ -306,8 +295,7 @@
               "RelativeToolTip": "vendas-efcore\\Menus\\Menu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:06:35.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T15:06:35.249Z"
             },
             {
               "$type": "Document",
@@ -319,8 +307,7 @@
               "RelativeToolTip": "vendas-efcore\\Data\\VendasContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:56:39.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T13:56:39.848Z"
             },
             {
               "$type": "Document",
@@ -332,8 +319,7 @@
               "RelativeToolTip": "vendas-efcore\\Migrations\\20250715152400_Inicial.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAQwEUAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:24:00.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T15:24:00.797Z"
             }
           ]
         }
